@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+.height {
+    height: fit-content;
+    padding: 30px 0;
+}
+.pointer {
+    cursor: pointer;
+}
